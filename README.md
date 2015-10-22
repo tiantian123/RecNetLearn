@@ -1,6 +1,10 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ahwillia/RecNetLearn)
+
 # RecNetLearn
 
 Some implementations of recurrent neural network models of interest to the computational neuroscience community (and probably of less interest to machine learning practitioners).
+
+You can launch an interactive session by clicking the badge at the top of the README, or by clicking [**this link**](http://mybinder.org/repo/ahwillia/RecNetLearn). Thanks very much to [@andrewosh](https://github.com/andrewosh) and [@freeman-lab](https://github.com/freeman-lab) for the [Binder Project](http://mybinder.org/), which enables this interactivity.
 
 ### Models To Implement
 
