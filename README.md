@@ -12,6 +12,8 @@ You can launch an interactive session by clicking the badge at the top of the RE
 
 *  Boerlin M, Machens CK, Deneve S (2013). [Predictive Coding of Dynamical Variables in Balanced Spiking Networks](http://dx.doi.org/10.1371/journal.pcbi.1003258). *PLoS Comput Biol*. 9:e1003258.
 
+* Martens J, Sutskever I (2011). [Learning Recurrent Neural Networks with Hessian-Free Optimization](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Martens_532.pdf). *28<sup>th</sup> ICML Proceeedings*. 
+
 ### Other Papers of Interest
 
 * Mante V, Sussillo D, Shenoy KV, Newsome WT (2013). [Context-dependent computation by recurrent dynamics in prefrontal cortex](http://dx.doi.org/10.1038/nature12742). *Nature*. 503(7474):78-84.
